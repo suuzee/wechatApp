@@ -1,0 +1,2 @@
+<view class="name">Hello, {{obj.name}}</view>
+<button class="change-btn" bindtap="changeName">Change</button>

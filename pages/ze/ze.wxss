@@ -1,0 +1,7 @@
+.name {
+    text-align: center;
+    margin-top: 3rem;
+}
+.change-btn {
+    width: 30%;
+}
